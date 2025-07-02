@@ -49,7 +49,7 @@ This Chrome extension (hereinafter referred to as the “Service”) values user
 
 ## 7. Changes to This Privacy Policy
 
-- This policy will take effect immediately after the review is approved**.
+- This policy will take effect immediately after the review is approved.
 - Any changes will be notified through announcements within the Service.
 
 ---
